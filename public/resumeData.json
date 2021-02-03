@@ -7,13 +7,12 @@
     "bio": "I'm an IT Professional with a keen interest in Computer Programming and Web Development. I have experience with JavaScript, I use react.js for client-side and I am currently learning node.js for server side. I have some knowledge on PHP and java. My interests however lie on frontend development using react.js, html, CSS, scss and styled-components. I also have some experience using wireframe design tools like Lucid Chart, draw.io and Axure.",
     "contactmessage": "Get in touch with me!",
     "email": "eokuchukwu95@gmail.com",
-    "phone": "+44 7145639792",
     "address": {
       "city": "London",
       "zip": "SE5"
     },
     "website": "",
-    "resumedownload": "Emmanuel Okuchukwu.pdf",
+    "resumedownload": "Emmanuel Okuchukwu (1).pdf",
     "social": [
       {
         "name": "youtube",
@@ -43,7 +42,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "My knowledge of programming",
     "education": [
       {
         "school": "University of Greenwich",

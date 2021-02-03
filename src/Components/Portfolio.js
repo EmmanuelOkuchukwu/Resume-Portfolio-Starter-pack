@@ -16,7 +16,7 @@ const Portfolio = ({ data }) => {
                 </div>
               </div>
               <div className="link-icon">
-                <i className="fa fa-link"></i>
+                <i className="fa fa-link" />
               </div>
             </a>
           </div>

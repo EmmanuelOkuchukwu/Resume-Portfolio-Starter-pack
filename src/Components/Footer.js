@@ -6,7 +6,7 @@ const Footer = ({ data }) => {
       return (
         <li key={network.name}>
           <a href={network.url}>
-            <i className={network.className}></i>
+            <i className={network.className} />
           </a>
         </li>
       );
@@ -21,16 +21,16 @@ const Footer = ({ data }) => {
 
           <ul className="copyright">
             <li>
-              Made by{" "}
+              Edited by{" "}
               <a title="PAPA" href="http://www.papareact.com/">
-                PAPA
+                Emmanuel
               </a>
             </li>
           </ul>
         </div>
         <div id="go-top">
           <a className="smoothscroll" title="Back to Top" href="#home">
-            <i className="icon-up-open"></i>
+            <i className="icon-up-open" />
           </a>
         </div>
       </div>

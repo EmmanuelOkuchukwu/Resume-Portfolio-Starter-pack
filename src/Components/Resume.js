@@ -31,7 +31,7 @@ const Resume = ({ data }) => {
       var className = "bar-expand " + skills.name.toLowerCase();
       return (
         <li key={skills.name}>
-          <span style={{ width: skills.level }} className={className}></span>
+          <span style={{ width: skills.level }} className={className} />
           <em>{skills.name}</em>
         </li>
       );
